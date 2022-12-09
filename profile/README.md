@@ -1,4 +1,4 @@
-# This is old the `Yemeni Open Source` repository and its moved to [YemenOpenSource](https://github.com/YemenOpenSource)
+# This is old the `Yemeni Open Source` organization and its moved to [YemenOpenSource](https://github.com/YemenOpenSource)
 
 We are available on:
 
